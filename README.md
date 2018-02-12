@@ -5,6 +5,7 @@ This project is intended as the starting point for custom simulations of the sam
 
 ## reqirements
 Gnu Scientific Library (gsl >= 2.1)
+
 Gnu Compiler Collection (gcc >= 6.1)
 
 # usage
